@@ -22,4 +22,5 @@
   ### screenshot
   ![Captura de tela 2023-12-14 152328](https://github.com/Dev-RR/GTA-VI/assets/148004500/e68b8fb9-8256-4aa8-9e64-e326a5634a14)
 
+**Observação:** Este projeto não possui afiliação com a Rockstar Games e foi criado para fins educacionais e de portfólio. Todas as marcas registradas e imagens são propriedade de seus respectivos proprietários.
   
