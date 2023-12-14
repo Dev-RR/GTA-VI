@@ -1,0 +1,21 @@
+.btn-launcher{
+    background-color: #FCAF17;
+}
+
+body{
+    margin-top: 80px;
+    background-color: #1E1E1E
+}
+
+.btn-style{
+    border-radius: 20px
+}
+
+.bg-nav{
+    background-color: #020202;
+}
+
+.bg-laucher{
+    background: url('../img/fundo.png')center center;
+    background-size: cover;
+}
